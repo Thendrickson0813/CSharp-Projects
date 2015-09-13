@@ -7,13 +7,6 @@ using System.Threading;
 
 namespace Magic_8_Ball
 {
-    //class Tim
-    //{
-    //    private static string name = "Tim";
-    //    public static string alias = "Bob";
-    //    private static int age : 34;
-    //}
-
     // Entry point for nmagic 8 ball app
     class Program
     {
